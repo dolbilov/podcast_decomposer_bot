@@ -1,1 +1,3 @@
 python-dotenv
+pydub
+ffmpeg-python
