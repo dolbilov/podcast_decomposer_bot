@@ -1,4 +1,9 @@
-python-dotenv
-pydub
 ffmpeg-python
 openai-whisper
+protobuf
+pydub
+python-dotenv
+razdel
+sentencepiece
+summa
+transformers

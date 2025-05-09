@@ -7,5 +7,15 @@ setup(
     version="0.1",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
-    install_requires=["python-dotenv", "pydub", "ffmpeg-python", "openai-whisper"],
+    install_requires=[
+        "ffmpeg-python",
+        "openai-whisper",
+        "protobuf",
+        "pydub",
+        "python-dotenv",
+        "razdel",
+        "sentencepiece",
+        "summa",
+        "transformers",
+    ],
 )
