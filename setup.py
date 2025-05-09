@@ -10,6 +10,7 @@ setup(
     install_requires=[
         "ffmpeg-python",
         "openai-whisper",
+        "protobuf",
         "pydub",
         "python-dotenv",
         "razdel",

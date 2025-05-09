@@ -1,5 +1,6 @@
 ffmpeg-python
 openai-whisper
+protobuf
 pydub
 python-dotenv
 razdel
