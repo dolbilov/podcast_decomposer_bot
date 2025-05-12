@@ -1,3 +1,4 @@
+aiogram
 ffmpeg-python
 openai-whisper
 protobuf
